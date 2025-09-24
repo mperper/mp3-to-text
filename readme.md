@@ -1,5 +1,5 @@
 # Description
-Super accurate, but with the large-v3 it takes awhile... to anyone who couldnt find music lyrics online but so direly want to know the music lyrics lol
+Super accurate mp3 to text, but with the large-v3 it takes awhile... to anyone who couldnt find music lyrics online but so direly want to know their musics lyrics lol
 
 # Convert video to mp3
 https://y2mate.nu/R2lu/
